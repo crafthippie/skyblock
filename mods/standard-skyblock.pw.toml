@@ -1,0 +1,13 @@
+name = "SkyBlock - Standard"
+filename = "standard-skyblock-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbtyQ1Po/versions/TmM7PeNC/standard-skyblock-1.0.4.jar"
+hash-format = "sha1"
+hash = "50383e0fb8d0a1000a07ab3c3835435f7b0c5ca1"
+
+[update]
+[update.modrinth]
+mod-id = "bbtyQ1Po"
+version = "TmM7PeNC"

@@ -1,0 +1,13 @@
+name = "Rob's Floating Islands"
+filename = "1.20.1-robs_floating_islands-v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZliMkJKA/versions/hfIXVLAb/1.20.1-robs_floating_islands-v1.jar"
+hash-format = "sha1"
+hash = "04e36ac5b8aaf96f502afcc88ec46b98d79c1f51"
+
+[update]
+[update.modrinth]
+mod-id = "ZliMkJKA"
+version = "hfIXVLAb"

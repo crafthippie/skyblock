@@ -1,0 +1,13 @@
+name = "SkyBlock Advancements"
+filename = "skyblock-advancements-1.0.2+rp.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuhPkHjq/versions/mQKPsXRg/skyblock-advancements-1.0.2%2Brp.jar"
+hash-format = "sha1"
+hash = "53c3c8a8544629291992c773b2d0a3c88a0f48eb"
+
+[update]
+[update.modrinth]
+mod-id = "xuhPkHjq"
+version = "mQKPsXRg"

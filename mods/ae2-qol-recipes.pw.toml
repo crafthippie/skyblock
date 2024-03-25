@@ -1,0 +1,13 @@
+name = "AE2 QoL Recipes"
+filename = "ae2qolrecipes-neoforge-1.20.1-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7VSm2YY/versions/JQnbYqRh/ae2qolrecipes-neoforge-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "2ac89ca62a9049674e4411b8de2825111023b104"
+
+[update]
+[update.modrinth]
+mod-id = "K7VSm2YY"
+version = "JQnbYqRh"

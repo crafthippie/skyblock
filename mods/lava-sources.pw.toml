@@ -1,0 +1,13 @@
+name = "Lava Sources"
+filename = "lava_sources_1.20.1_1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ab19f0fd2f4b78e666ab35697d47b2259310524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4911657
+project-id = 643463

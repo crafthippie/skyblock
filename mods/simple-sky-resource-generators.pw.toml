@@ -1,0 +1,13 @@
+name = "Simple Sky Resource Generators"
+filename = "SimpleResourceGeneratorsJAR1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25b9d1828f2ebca8ca41073b81f6e5e17fb7908b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5108586
+project-id = 948781
