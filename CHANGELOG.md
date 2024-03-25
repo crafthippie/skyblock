@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/crafthippie/skyblock/compare/v1.0.0...v1.0.1) (2024-03-25)
+
+
+### Bugfixes
+
+* jei and creativecore is required on both sides ([5474943](https://github.com/crafthippie/skyblock/commit/5474943b4f5ae6f21b9f1acf0bc5666a49cbee2b))
+
 ## 1.0.0 (2024-03-25)
 
 
