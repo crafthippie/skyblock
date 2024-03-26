@@ -54,6 +54,11 @@ hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
 
 [[files]]
+file = "mods/clear-void.pw.toml"
+hash = "9bd3ddd31796e9c04bca1243373b47ce3e58728547ac4a420bf0ebc7c951d487"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -144,11 +149,6 @@ hash = "c0a0a1e85892a9546c1c69761db4d676e8ff63f67dd203b9d1ad1dc0b07d7b0f"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "98727baa5596efd274e4f99cddda4f289931bc14f527261c76f1f959fc3a0eb3"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
 metafile = true
@@ -204,8 +204,18 @@ hash = "8f206f9520244cdd99a9fb2714a72f383001d2c0278438bbd7dba04bdf8f601b"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "9f406e80eecb4fd2e3e0e1e50add917360d25baedcb392a12126b991ae1a6550"
+metafile = true
+
+[[files]]
 file = "mods/robs-floating-islands.pw.toml"
 hash = "0d37a3fb5d8ce4746c98a5cb13cb4c4595ab4eb3abd6766220a91dbb2d5f6cd0"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7986425df54d16850b84c3c8bc63fe963dceb19c5190f67839c5bddf22730ee7"
 metafile = true
 
 [[files]]
