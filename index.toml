@@ -64,6 +64,11 @@ hash = "30f0c1dc08936db9002056ff41197e0fd9768e47c5b08d277bd5e547464c5118"
 metafile = true
 
 [[files]]
+file = "mods/cobblegenrandomizer.pw.toml"
+hash = "b6c98086f9fa71d9fe4d702294ed527b53f7096e361cbbd71016cf859e164572"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
 metafile = true
