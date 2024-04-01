@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/crafthippie/skyblock/compare/v1.0.1...v1.1.0) (2024-04-01)
+
+
+### Features
+
+* add cobble gen randomizer mod ([bb49003](https://github.com/crafthippie/skyblock/commit/bb49003d02df1686e638a93345d677a97da3efc3))
+* replace jei with rei, added clear void mod ([0be80f0](https://github.com/crafthippie/skyblock/commit/0be80f003cf86bca0318de2bca62ce365925d77e))
+
+
+### Bugfixes
+
+* replace all jei with rei ([3bac97b](https://github.com/crafthippie/skyblock/commit/3bac97b86330c55d3ec7a248857597a8e9b9e3e3))
+
 ## [1.0.1](https://github.com/crafthippie/skyblock/compare/v1.0.0...v1.0.1) (2024-03-25)
 
 
