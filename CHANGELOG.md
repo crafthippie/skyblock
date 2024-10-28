@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/crafthippie/skyblock/compare/v1.1.0...v1.2.0) (2024-10-28)
+
+
+### Features
+
+* upgrade forge versions ([74e4971](https://github.com/crafthippie/skyblock/commit/74e49718bc65e65c141e6672984aff1b8fabb082))
+
 ## [1.1.0](https://github.com/crafthippie/skyblock/compare/v1.0.1...v1.1.0) (2024-04-01)
 
 
