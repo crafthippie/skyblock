@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/crafthippie/skyblock/compare/v1.2.0...v2.0.0) (2025-08-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* restructure build process
+
+### Features
+
+* restructure build process ([cc7194e](https://github.com/crafthippie/skyblock/commit/cc7194e5f021a7891f5d6527b21e92651b317762))
+
 ## [1.2.0](https://github.com/crafthippie/skyblock/compare/v1.1.0...v1.2.0) (2024-10-28)
 
 
