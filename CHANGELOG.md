@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/crafthippie/skyblock/compare/v2.0.0...v2.0.1) (2025-08-20)
+
+
+### Bugfixes
+
+* resolve client deployment ([6078bc9](https://github.com/crafthippie/skyblock/commit/6078bc95379429af17c17097f2a6b42f153789c5))
+
 ## [2.0.0](https://github.com/crafthippie/skyblock/compare/v1.2.0...v2.0.0) (2025-08-20)
 
 
