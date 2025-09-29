@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/crafthippie/skyblock/compare/v2.0.1...v2.0.2) (2025-09-29)
+
+
+### Bugfixes
+
+* **deps:** pin dependencies ([fbb5a48](https://github.com/crafthippie/skyblock/commit/fbb5a483a19c5aa8aee31f4db5e60fc96cf84a01))
+
 ## [2.0.1](https://github.com/crafthippie/skyblock/compare/v2.0.0...v2.0.1) (2025-08-20)
 
 
