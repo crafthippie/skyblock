@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.22](https://github.com/crafthippie/skyblock/compare/v2.0.21...v2.0.22) (2026-02-23)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to 847ba2b ([#87](https://github.com/crafthippie/skyblock/issues/87)) ([8a3d46b](https://github.com/crafthippie/skyblock/commit/8a3d46bcd532fbba047f10f2f50c2faa875af203))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 2be1ea5 ([#88](https://github.com/crafthippie/skyblock/issues/88)) ([6837ffe](https://github.com/crafthippie/skyblock/commit/6837ffee4eec454580a692280d81b2d2f558ed3f))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([d7c157c](https://github.com/crafthippie/skyblock/commit/d7c157c074faff5e5c4ba4f24cc0c46b660a96e4))
+
 ## [2.0.21](https://github.com/crafthippie/skyblock/compare/v2.0.20...v2.0.21) (2026-02-16)
 
 ### Dependencies
