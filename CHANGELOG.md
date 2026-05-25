@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.34](https://github.com/crafthippie/skyblock/compare/v2.0.33...v2.0.34) (2026-05-25)
+
+### Dependencies
+
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 04d45f1 ([#120](https://github.com/crafthippie/skyblock/issues/120)) ([7a47fff](https://github.com/crafthippie/skyblock/commit/7a47fffd6f973e30dbfa16b5e57afb19287e51eb))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([4cc2b3d](https://github.com/crafthippie/skyblock/commit/4cc2b3dc4dbfc179c17e37a6b8e9a99aee946c14))
+
 ## [2.0.33](https://github.com/crafthippie/skyblock/compare/v2.0.32...v2.0.33) (2026-05-18)
 
 ### Dependencies
