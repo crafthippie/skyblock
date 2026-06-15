@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.37](https://github.com/crafthippie/skyblock/compare/v2.0.36...v2.0.37) (2026-06-15)
+
+### Dependencies
+
+* **patch:** pin dependencies ([#124](https://github.com/crafthippie/skyblock/issues/124)) ([9ff955b](https://github.com/crafthippie/skyblock/commit/9ff955b913599252708213898882a4666cfa7301))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([d771d1d](https://github.com/crafthippie/skyblock/commit/d771d1dfda5937663f52d64058e84db3dbd23f18))
+
 ## [2.0.36](https://github.com/crafthippie/skyblock/compare/v2.0.35...v2.0.36) (2026-06-08)
 
 ### Dependencies
