@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.38](https://github.com/crafthippie/skyblock/compare/v2.0.37...v2.0.38) (2026-06-22)
+
+### Dependencies
+
+* **patch:** update docker digests ([#125](https://github.com/crafthippie/skyblock/issues/125)) ([4b9ff91](https://github.com/crafthippie/skyblock/commit/4b9ff9107a9179a411d44d097618171982539754))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([8219178](https://github.com/crafthippie/skyblock/commit/8219178ab7059a74eaa91da0fe896514f27edc17))
+
 ## [2.0.37](https://github.com/crafthippie/skyblock/compare/v2.0.36...v2.0.37) (2026-06-15)
 
 ### Dependencies
