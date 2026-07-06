@@ -26,6 +26,6 @@ secretGenerator:
 images:
   - name: minecraft-server
     newName: quay.io/crafthippie/skyblock
-    newTag: 2.0.40
+    newTag: 2.0.40@sha256:ae504ad3a02e6f8b2e941bcc61c3ab7aa43b27353a9aee1080f9095948f7b16a
 
 ...
