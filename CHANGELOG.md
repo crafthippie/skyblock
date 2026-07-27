@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.0.43](https://github.com/crafthippie/skyblock/compare/v2.0.42...v2.0.43) (2026-07-27)
+
 ## [2.0.42](https://github.com/crafthippie/skyblock/compare/v2.0.41...v2.0.42) (2026-07-20)
 
 ## [2.0.41](https://github.com/crafthippie/skyblock/compare/v2.0.40...v2.0.41) (2026-07-13)
