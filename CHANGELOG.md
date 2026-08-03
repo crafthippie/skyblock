@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.1.0](https://github.com/crafthippie/skyblock/compare/v2.0.43...v2.1.0) (2026-08-03)
+
+### Features
+
+* restructure repo and build processes ([de25c32](https://github.com/crafthippie/skyblock/commit/de25c32ee87b8e139c2980f7b90a61b9cae61a3a))
+
+### Bugfixes
+
+* resolve build script and ignore dockerfile ([c56f172](https://github.com/crafthippie/skyblock/commit/c56f172e9704e556502790993e42f6ebb61f050e))
+
+### Dependencies
+
+* **minor:** update dependency task to v3.52.0 ([#134](https://github.com/crafthippie/skyblock/issues/134)) ([7d2dd02](https://github.com/crafthippie/skyblock/commit/7d2dd027e42542142d266d9e7cf897a7ff4cd278))
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to 10e9761 ([#133](https://github.com/crafthippie/skyblock/issues/133)) ([d8185c0](https://github.com/crafthippie/skyblock/commit/d8185c04ce35c0c74ff8a1a62f1b7511fe0f56e5))
+
 ## [2.0.43](https://github.com/crafthippie/skyblock/compare/v2.0.42...v2.0.43) (2026-07-27)
 
 ## [2.0.42](https://github.com/crafthippie/skyblock/compare/v2.0.41...v2.0.42) (2026-07-20)
