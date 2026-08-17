@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.0](https://github.com/crafthippie/skyblock/compare/v2.1.1...v2.2.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency hugo-extended to v0.165.0 ([#139](https://github.com/crafthippie/skyblock/issues/139)) ([c38d8ae](https://github.com/crafthippie/skyblock/commit/c38d8ae77aa9b379fd4355e1641153e5bfdde0b7))
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to ca3d718 ([#137](https://github.com/crafthippie/skyblock/issues/137)) ([bd3d02c](https://github.com/crafthippie/skyblock/commit/bd3d02c9b9c93e4cdcbf3ef6f648c51dfb26a215))
+* **patch:** update dependency pre-commit to v4.6.2 ([#138](https://github.com/crafthippie/skyblock/issues/138)) ([65c1685](https://github.com/crafthippie/skyblock/commit/65c1685e67d57bc176516f57f13b4d4ede68b808))
+
 ## [2.1.1](https://github.com/crafthippie/skyblock/compare/v2.1.0...v2.1.1) (2026-08-10)
 
 ### Dependencies
