@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/crafthippie/skyblock/compare/v2.2.0...v2.3.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency task to v3.53.1 ([#141](https://github.com/crafthippie/skyblock/issues/141)) ([436be3d](https://github.com/crafthippie/skyblock/commit/436be3d9e63914c477b918be8b8741cd3befa755))
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to c9fb1ef ([#140](https://github.com/crafthippie/skyblock/issues/140)) ([fef38a0](https://github.com/crafthippie/skyblock/commit/fef38a0956b55b65cba0caddecef393dac2b03d0))
+
 ## [2.2.0](https://github.com/crafthippie/skyblock/compare/v2.1.1...v2.2.0) (2026-08-17)
 
 ### Dependencies
