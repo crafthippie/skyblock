@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.3.1](https://github.com/crafthippie/skyblock/compare/v2.3.0...v2.3.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to eed11d5 ([#142](https://github.com/crafthippie/skyblock/issues/142)) ([153017b](https://github.com/crafthippie/skyblock/commit/153017ba598507db6f4c1f1b9c13a63423cd90b7))
+
 ## [2.3.0](https://github.com/crafthippie/skyblock/compare/v2.2.0...v2.3.0) (2026-08-24)
 
 ### Dependencies
