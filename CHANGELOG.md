@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.2](https://github.com/crafthippie/skyblock/compare/v2.3.1...v2.3.2) (2026-09-07)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to 3d6f5d2 ([#143](https://github.com/crafthippie/skyblock/issues/143)) ([34afd14](https://github.com/crafthippie/skyblock/commit/34afd144d564c5b7441ee43f1b0e978439d9b4a3))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260902165313-9066bf845f7e ([#144](https://github.com/crafthippie/skyblock/issues/144)) ([cde304b](https://github.com/crafthippie/skyblock/commit/cde304bf976ce8e1a4a5ad25f4c480fd4d87c300))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260906154125-ef87d964f8cb ([#145](https://github.com/crafthippie/skyblock/issues/145)) ([04a6691](https://github.com/crafthippie/skyblock/commit/04a66917666da92e72e7f939bbc9c739ad3ec13e))
+
 ## [2.3.1](https://github.com/crafthippie/skyblock/compare/v2.3.0...v2.3.1) (2026-08-31)
 
 ### Dependencies
