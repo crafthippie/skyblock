@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.6](https://github.com/crafthippie/skyblock/compare/v2.4.5...v2.4.6) (2026-10-26)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.7 ([#167](https://github.com/crafthippie/skyblock/issues/167)) ([38770f1](https://github.com/crafthippie/skyblock/commit/38770f1524e503a0076242bbe6ad7f7e37502918))
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to 8f45290 ([#166](https://github.com/crafthippie/skyblock/issues/166)) ([3efbff8](https://github.com/crafthippie/skyblock/commit/3efbff85dfc94e5c539e55331346534e687c4d50))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to f0c9964 ([#168](https://github.com/crafthippie/skyblock/issues/168)) ([c6c4f39](https://github.com/crafthippie/skyblock/commit/c6c4f39105704cc36ecaa1d1399b6d7ad755cda4))
+
 ## [2.4.5](https://github.com/crafthippie/skyblock/compare/v2.4.4...v2.4.5) (2026-10-19)
 
 ### Dependencies
