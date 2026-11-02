@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.4.7](https://github.com/crafthippie/skyblock/compare/v2.4.6...v2.4.7) (2026-11-02)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.169.0 ([#171](https://github.com/crafthippie/skyblock/issues/171)) ([17e1c3b](https://github.com/crafthippie/skyblock/commit/17e1c3b3ea80cded2dbd0a032f4214058d5054fa))
+* **mise:** update dependency prek to v0.5.9 ([#174](https://github.com/crafthippie/skyblock/issues/174)) ([8e49abf](https://github.com/crafthippie/skyblock/commit/8e49abf9f9ce326c1bcb702c182f896b25f34b5a))
+* **mise:** update node.js to v26 ([#172](https://github.com/crafthippie/skyblock/issues/172)) ([ed0f8f5](https://github.com/crafthippie/skyblock/commit/ed0f8f594bf78ea2b15207e0ee80a2d08467b439))
+* **patch:** pin quay.io/crafthippie/skyblock docker tag to 138cca8 ([#169](https://github.com/crafthippie/skyblock/issues/169)) ([e7757d7](https://github.com/crafthippie/skyblock/commit/e7757d788315a77c23ea22ad44d1cc79032d90bd))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to b9ebf14 ([#173](https://github.com/crafthippie/skyblock/issues/173)) ([0cc440f](https://github.com/crafthippie/skyblock/commit/0cc440ffa3a94e4db003487bccc76aaf124a2bd5))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to d7eabb5 ([#170](https://github.com/crafthippie/skyblock/issues/170)) ([cf6df7a](https://github.com/crafthippie/skyblock/commit/cf6df7a9e35e00869372c588093b61b7f1263539))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to e51e3f1 ([#175](https://github.com/crafthippie/skyblock/issues/175)) ([c422687](https://github.com/crafthippie/skyblock/commit/c422687920a1417dfaae1add2dcf1a06d6f4105e))
+
 ## [2.4.6](https://github.com/crafthippie/skyblock/compare/v2.4.5...v2.4.6) (2026-10-26)
 
 ### Dependencies
