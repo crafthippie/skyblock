@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.5.0](https://github.com/crafthippie/skyblock/compare/v2.4.9...v2.5.0) (2026-11-23)
+
+### Features
+
+* switch to plain hugo and resolve deprecations ([f9fb2ce](https://github.com/crafthippie/skyblock/commit/f9fb2ce15e913fc1e22d9dec679b505ed9a3e483))
+
+### Bugfixes
+
+* replace security allowContent with cascade config ([b4920bc](https://github.com/crafthippie/skyblock/commit/b4920bcf09780ccaded7c3c973632a1a453c0a4a))
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.170.1 ([#184](https://github.com/crafthippie/skyblock/issues/184)) ([e64452b](https://github.com/crafthippie/skyblock/commit/e64452b50e6ef7a604e7472bf763afe72a218342))
+* **patch:** update docker digests ([#183](https://github.com/crafthippie/skyblock/issues/183)) ([0c9b08b](https://github.com/crafthippie/skyblock/commit/0c9b08b3d843b5af87902ef0f32f802adcab9821))
+
 ## [2.4.9](https://github.com/crafthippie/skyblock/compare/v2.4.8...v2.4.9) (2026-11-16)
 
 ### Dependencies
